@@ -3,8 +3,7 @@ Industry-level SQL practice for Data Analyst interviews
 -- 1. All employees
 SELECT * FROM employees;
 
--- 2. Selected columns
-SELECT name, salary FROM employees;
+
 
 -- 3. Salary > 50K
 SELECT * FROM employees WHERE salary > 50000;
